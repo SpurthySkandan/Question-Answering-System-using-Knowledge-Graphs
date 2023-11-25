@@ -2,6 +2,8 @@
 # Question Answering System using Knoweldge Graph : Capstone Project
 
 Question Answering Systems using KG catering to single and multi hop questions, using spaCy entity extraction and depedency parsing. 
+Published in IEEE Xplore - https://ieeexplore.ieee.org/document/10134047
+S. Skandan, S. Kanungo, S. Devaraj, S. Gupta and S. Narayan, "Question Answering System using Knowledge Graphs," 2023 International Conference on Inventive Computation Technologies (ICICT), Lalitpur, Nepal, 2023, pp. 656-661, doi: 10.1109/ICICT57646.2023.10134047.
 
 ![User Interface](UI.png)
 ![](QnA.png)
