@@ -1,0 +1,7 @@
+json
+spacy=3.4.2
+re
+inflect
+pandas
+networkx
+matplotlib
